@@ -19,8 +19,10 @@ Key Features
 
 
 Technical Details
+
 Frontend - 
 Technologies Used: The frontend is developed with HTML for structure, CSS for styling, and Vanilla JavaScript for dynamic functionality.
+
 
 Backend - 
 Node.js and Express: The backend server is implemented using Node.js and Express, providing a robust and scalable foundation for handling client requests and serving static files.
@@ -31,5 +33,7 @@ WebSockets: Real-time collaboration is facilitated through WebSockets, allowing 
 
 Usage Scenarios
 Remote Work: Enhances productivity and communication among remote teams by providing a dynamic collaborative space.
+
 Education: Serves as a valuable tool for teachers and students, enabling interactive lessons and group projects.
+
 Creative Sessions: Ideal for brainstorming, mind mapping, and other creative processes that benefit from a visual medium.
