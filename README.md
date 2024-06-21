@@ -19,10 +19,10 @@ Key Features
 
 
 Technical Details
-Frontend
+Frontend - 
 Technologies Used: The frontend is developed with HTML for structure, CSS for styling, and Vanilla JavaScript for dynamic functionality.
 
-Backend
+Backend - 
 Node.js and Express: The backend server is implemented using Node.js and Express, providing a robust and scalable foundation for handling client requests and serving static files.
 Socket.io for Real-Time Communication: Utilizes Socket.io to enable real-time, bidirectional communication between clients and the server, ensuring all users receive updates instantaneously.
 
