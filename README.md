@@ -54,7 +54,7 @@ Follow these steps to set up and run the Real-Time Collaborative Whiteboard on y
 1. Clone the Repository
 
    First, clone the repository from GitHub to your local machine. Open your terminal and run the following command:
-
+   '''
    git clone https://github.com/simrabhombal/Realtime-Whiteboard.git
 
 2. Navigate to the Project Directory
