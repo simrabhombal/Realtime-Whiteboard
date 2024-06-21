@@ -65,9 +65,9 @@ Follow these steps to set up and run the Real-Time Collaborative Whiteboard on y
 
 3. Install Dependencies
 
-Install the required dependencies using npm:
+   Install the required dependencies using npm:
 
-npm install
+   npm install
 
 4. Run the Server
 
