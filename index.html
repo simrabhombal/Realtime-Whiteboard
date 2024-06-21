@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">           
+<head>
+    <link rel="stylesheet" href = "style.css">
+    <!-- <script src="https://cdn.socket.io/4.7.5/socket.io.min.js" integrity="sha384-2huaZvOR9iDzHqslqwpR87isEmrfxqyWOF7hr7BY6KG0+hVKLoEXMPUJw3ynWuhO" crossorigin="anonymous"></script> -->
+
+</head>
+<body> 
+    <div class="toolbar">
+        <div class="cross">
+            <img src = "./NewIcons/211652_close_icon.svg" class="tool-img"> 
+        </div>
+        <div class="tooloptions">
+            <div class="tool" id = "pencil"> 
+                <img src="./NewIcons/pencil-black-gross-tool-svgrepo-com.svg" class="tool-img">
+                <div class="color-options" id="colorOptions" style="display:none;">
+                    <div class="color-option" data-color="black" style="background-color: black;"></div>
+                    <div class="color-option" data-color="red" style="background-color: red;"></div>
+                    <div class="color-option" data-color="blue" style="background-color: blue;"></div>
+                </div>
+            </div>
+            <div class="tool" id = "eraser">
+                <img src="./NewIcons/eraser-color-icon.svg" class="tool-img ">
+            </div>
+            <div class="tool" id = "stickynote">
+                <img src="./NewIcons/sticky-note-dual-tone-icon.svg" class="tool-img" alt="">
+            </div>
+            <div class="tool" id = "upload">
+                <img src="./NewIcons/image-icon.svg" class="tool-img" alt=""> 
+                
+            </div>
+            <div class="tool" id = "download">
+                <img src="./NewIcons/download-icon.svg" class="tool-img" alt="">
+                
+            </div> 
+            <div class="tool" id = "undo">
+                <img src="./NewIcons/reply-arrow-icon.svg" class="tool-img" alt="">
+            </div>
+            <div class="tool" id = "redo">
+                <img src="./NewIcons/forward-arrow-icon.svg" class="tool-img" alt="">
+            </div>
+        </div>  
+        
+        <input type="file" class="input-tag">
+    </div>
+   
+    <canvas id = "board"></canvas>
+    <script src = "tools.js"></script>
+
+</body>
+</html>

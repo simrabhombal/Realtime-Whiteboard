@@ -1,0 +1,85 @@
+body{
+    margin: 0px;
+}
+
+*{ 
+    box-sizing: border-box;
+}
+.tool-img{
+    height: 2.25rem;
+}
+
+
+.tooloptions{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    border: 2px solid slategrey;
+    box-shadow: 0 0 10px 5px rgba(112, 128, 144, 0.5),
+                        0 0 20px 10px rgba(112, 128, 144, 0.25),
+                        0 0 30px 15px rgba(112, 128, 144, 0.1);
+    cursor: pointer;
+}
+.cross{
+    padding-right: 20px;
+    align-self: center;
+}
+.toolbar{ 
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 20px;
+    /* border: 2px solid slategrey; */
+}
+.sticky{
+    height: 6rem; 
+    width: 200px; 
+    /* margin-left: 10rem; */
+    position: absolute;
+    left: 40vw;
+    top: 40vh;
+}
+.nav{
+    width: 168px;
+    border: 1px solid black;
+    height : 20%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: flex-end; 
+    gap: 20px;
+}
+.textarea{
+    height: 700px;
+    /* width: 150px; */
+}
+
+.input-tag{
+    display: none;
+
+}
+
+.upload-img{
+    height: 9rem; 
+    width: 168px;
+}
+
+.color-options {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 90px; /* Adjust as needed */
+    left: calc(50% - 230px); /* Adjust as needed */
+    width: 150px;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Adjust this as needed */
+}
+
+.color-option {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+
