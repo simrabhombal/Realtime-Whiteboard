@@ -1,9 +1,9 @@
-# Realtime-Whiteboard
+# **Realtime-Whiteboard**
 
-Project Overview
+**Project Overview**
 The Real-Time Collaborative Whiteboard is a sophisticated web-based application engineered using HTML, CSS, and Vanilla JavaScript. Designed to facilitate real-time collaboration, this tool offers a seamless experience for drawing, erasing, adding sticky notes, uploading images, and more. It serves as an ideal solution for remote teams, educators, and any setting where visual collaboration is essential.
 
-Key Features
+**Key Features**
 1. Drawing and Erasing
    Users can draw on the whiteboard using a mouse or touch input, with support for various colors and brush sizes.
 2. Eraser Tool
@@ -18,7 +18,7 @@ Key Features
    Users can download the entire whiteboard as an image file, making it easy to save and share their collaborative efforts.
 
 
-Technical Details
+**Technical Details**
 
 Frontend - 
 Technologies Used: The frontend is developed with HTML for structure, CSS for styling, and Vanilla JavaScript for dynamic functionality.
@@ -31,7 +31,8 @@ Socket.io for Real-Time Communication: Utilizes Socket.io to enable real-time, b
 Real-Time Collaboration
 WebSockets: Real-time collaboration is facilitated through WebSockets, allowing multiple users to interact with the whiteboard simultaneously with minimal latency.
 
-Usage Scenarios
+**Usage Scenarios**
+
 Remote Work: Enhances productivity and communication among remote teams by providing a dynamic collaborative space.
 
 Education: Serves as a valuable tool for teachers and students, enabling interactive lessons and group projects.
