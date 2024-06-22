@@ -13,7 +13,7 @@ The Real-Time Collaborative Whiteboard is a sophisticated web-based application 
 5. Image Integration
    Users can upload images directly onto the whiteboard, enhancing the collaborative experience.
 6. Undo and Redo
-   Undo/Redo Actions: The application supports robust undo and redo functionalities, enabling users to correct mistakes and     iterate on ideas effortlessly.
+   The application supports robust undo and redo functionalities, enabling users to correct mistakes and iterate on ideas effortlessly. This feature is implemented using the    stack data structure, ensuring efficient and reliable performance.
 7. Download Whiteboard
    Users can download the entire whiteboard as an image file, making it easy to save and share their collaborative efforts.
 
