@@ -75,7 +75,6 @@ Follow these steps to set up and run the Real-Time Collaborative Whiteboard on y
    ```bash
    node server.js
    You should see output indicating that the server is running, such as:
-   ```bash
    Server running on port 3000
    
 5. Access the Application
