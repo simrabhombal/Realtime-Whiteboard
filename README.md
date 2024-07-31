@@ -54,27 +54,28 @@ Follow these steps to set up and run the Real-Time Collaborative Whiteboard on y
 1. Clone the Repository
 
    First, clone the repository from GitHub to your local machine. Open your terminal and run the following command:
-   
+   ```bash
    git clone https://github.com/simrabhombal/Realtime-Whiteboard.git
 
 2. Navigate to the Project Directory
 
    Change into the project directory:
-
+   ```bash
    cd your-repository
 
 3. Install Dependencies
 
    Install the required dependencies using npm:
-
+   ```bash
    npm install
 
 4. Run the Server
 
    Start the server by running the following command:
-
+   ```bash
    node server.js
    You should see output indicating that the server is running, such as:
+   ```bash
    Server running on port 3000
    
 5. Access the Application
