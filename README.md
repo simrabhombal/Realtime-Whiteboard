@@ -82,4 +82,4 @@ Follow these steps to set up and run the Real-Time Collaborative Whiteboard on y
    Open your web browser and navigate to http://localhost:3000 to access the Real-Time Whiteboard.
 
 ## Demo Video
-   https://streamable.com/tf96yx
+   (https://drive.google.com/file/d/1WWYWEkBLUEuBN-CkKyExk2DLjvZdo_y4/view?usp=drive_link)
